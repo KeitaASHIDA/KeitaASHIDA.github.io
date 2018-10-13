@@ -2,6 +2,12 @@
 I'm Keita ASHIDA, a PhD student in [Oka Lab](https://www.bpni.bio.keio.ac.jp/) at Keio University, Japan.
 I am interested in neuroscience with quantitative biological approach, and am currently working on input-output relationship of a neuron in _Caenorhabditis elegans_.
 
+### Skills
+* Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vescicle release, Neurotransmitter and so on.)
+* Programing for data analysis and computer simulation (C++, Python, ODE, PDE, SDE)
+* DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
+* Cloning
+
 ### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
 * Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans  
 T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka  
