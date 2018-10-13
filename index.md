@@ -9,10 +9,10 @@ Understanding neuronal information processing using quantification and physical 
 * Thermodynamics
 * Information theory
 * Dynamical systems
-* Control engeneering
+* Control engineering
 
 #### Skills
-* Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vescicle release, Neurotransmitter and so on.)
+* Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vesicle release, Neurotransmitter and so on.)
 * Programing for data analysis and computer simulation (C++, Python, ODE, PDE, SDE)
 * DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
 * Cloning
@@ -23,7 +23,7 @@ Understanding neuronal information processing using quantification and physical 
 T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka  
 _Journal of Experimental Biology_, jeb. 182790  
   
-This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior againt odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
+This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior against odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
 
 ### Education
 2016 Sep. ~ Ph. D at Keio University  
@@ -34,7 +34,7 @@ Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Uni
 Advisor: Dr. Kotaro Oka
 
 2014 Apr. ~ 2015 Mar. Bachelor of Science at Keio University  
-Thesis: Input/output Charasteristics of Sensory Neuron in _Caenorhabditis elegans_  
+Thesis: Input/output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
