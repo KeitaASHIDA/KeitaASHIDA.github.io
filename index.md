@@ -16,6 +16,7 @@ Understanding neuronal information processing using quantification and physical 
 * Programing for data analysis and computer simulation (C++, Python, ODE, PDE, SDE)
 * DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
 * Cloning
+
 ***
 
 ### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
@@ -41,6 +42,7 @@ Advisor: Dr. Kotaro Oka
 
 
 ***
+
 Contact: 12ashi.jkkt _ at _ keio.jp  
 Address: Department of Biosciences and Informatics,
 Faculty of Science and Technology, Keio University
