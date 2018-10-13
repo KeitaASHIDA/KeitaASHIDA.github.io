@@ -15,7 +15,7 @@ Understanding neuronal information processing using quantification and physical 
 * Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vesicle release, Neurotransmitter and so on.)
 * Programing for data analysis and computer simulation (C++, Python, ODE, PDE, SDE)
 * DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
-* Cloning
+* Cloning  
 
 ***
 
