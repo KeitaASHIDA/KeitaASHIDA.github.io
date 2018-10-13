@@ -14,12 +14,11 @@ This article revealed that chemotactic behavior of a nematode is affected by aro
 Advisor: Dr. Kotaro Oka
 
 2015 Apr. ~ 2016 Aug. Master of Science at Keio University
+Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Units of Sensory and Interneuron in _Caenorhabditis elegans_
 Advisor: Dr. Kotaro Oka
 
 2014 Apr. ~ 2015 Mar. Bachelor of Science at Keio University
+Thesis: Input/output Charasteristics of Sensory Neuron in _Caenorhabditis elegans_
 Advisor: Dr. Kotaro Oka
-
-### Poster Presentaion
-
 
 ### Awards and Scholarships
