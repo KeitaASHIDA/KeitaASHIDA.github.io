@@ -27,14 +27,14 @@ _Journal of Experimental Biology_, jeb. 182790
 This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior against odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
 
 ### Education
-2016 Sep. ~ Ph. D at Keio University  
+2016 Sep. - Ph. D at Keio University  
 Advisor: Dr. Kotaro Oka
 
-2015 Apr. ~ 2016 Aug. Master of Science at Keio University  
+2015 Apr. - 2016 Aug. Master of Science at Keio University  
 Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Units of Sensory and Interneuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
-2014 Apr. ~ 2015 Mar. Bachelor of Science at Keio University  
+2014 Apr. - 2015 Mar. Bachelor of Science at Keio University  
 Thesis: Input/output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
