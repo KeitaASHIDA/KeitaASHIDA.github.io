@@ -23,6 +23,7 @@ Understanding neuronal information processing using quantification and physical 
 * Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans  
 T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka  
 _Journal of Experimental Biology_, jeb. 182790  
+([URL](http://jeb.biologists.org/content/221/11/jeb182790))
   
 This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior against odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
 
