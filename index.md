@@ -20,6 +20,9 @@ Understanding neuronal information processing using quantification and physical 
 ***
 
 ### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
+* Stochastic thermodynamic limit on E. coli adaptation by Information geometric approach  
+<u>K Ashida</u>, K Oka  
+_Biochemical and Biophysical Research Communications_, in press.
 * Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans  
 T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka  
 _Journal of Experimental Biology_, jeb. 182790 ([URL](http://jeb.biologists.org/content/221/11/jeb182790))
