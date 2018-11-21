@@ -20,14 +20,15 @@ Understanding neuronal information processing using quantification and physical 
 ***
 
 ### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
-* Stochastic thermodynamic limit on E. coli adaptation by Information geometric approach  
-<u>K Ashida</u>, K Oka  
-_Biochemical and Biophysical Research Communications_, in press.
-* Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans  
-T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka  
-_Journal of Experimental Biology_, jeb. 182790 ([URL](http://jeb.biologists.org/content/221/11/jeb182790))
-  
-This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior against odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
+#### 2018
+***
+* <u>K Ashida</u>, K Oka. 
+  "Stochastic thermodynamic limit on E. coli adaptation by Information geometric approach."
+  _Biochemical and Biophysical Research Communications_, 2018 in press ([preprint](https://arxiv.org/abs/1805.10733)).
+* T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka. 
+  ["Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans"](http://jeb.biologists.org/content/221/11/jeb182790) 
+  _Journal of Experimental Biology_, 2018 Jun 12;221(Pt 11).  
+  This article revealed that chemotactic behavior of a nematode is affected by around worms. The worms modulated turning behavior against odor decrease by their pheromone. I mainly performed computer simulation of odor diffusion in this paper.
 
 ### Education
 2016 Sep. - Ph. D at Keio University  
