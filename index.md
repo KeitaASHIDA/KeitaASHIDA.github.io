@@ -21,7 +21,9 @@ Understanding neuronal information processing using quantification and physical 
 
 ### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
 2018  
-***
+
+---
+
 * <u>K Ashida</u>, K Oka. 
   "Stochastic thermodynamic limit on E. coli adaptation by Information geometric approach."
   _Biochemical and Biophysical Research Communications_, 2018 in press ([preprint](https://arxiv.org/abs/1805.10733)).
