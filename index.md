@@ -53,7 +53,7 @@ Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Uni
 Advisor: Dr. Kotaro Oka
 
 2014 Apr. - 2015 Mar. Bachelor of Science at Keio University  
-Thesis: Input/output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
+Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
