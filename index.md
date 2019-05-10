@@ -24,7 +24,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * <u>K Ashida</u>, T Kato, K Hotta, K Oka.
-["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in Caenorhabditis elegans"]()
+["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in Caenorhabditis elegans"](https://www.sciencedirect.com/science/article/abs/pii/S0304394019303301?via%3Dihub)
 _Neuroscience Letters_, 2019 in press.　
 
   This article revealed that velocity change is important for food searching behavior in _C. elegans_ using inverse reinforcement learning.
