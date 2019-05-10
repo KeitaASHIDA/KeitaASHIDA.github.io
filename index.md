@@ -23,12 +23,18 @@ Understanding neuronal information processing using quantification and physical 
 2019  
 
 ---
+* <u>K Ashida</u>, T Kato, K Hotta, K Oka.
+["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in Caenorhabditis elegans"](https://www.sciencedirect.com/science/article/abs/pii/S0304394019303301?via%3Dihub)
+_Neuroscience Letters_, 2019 in press.　
+
+  This article revealed that velocity change is important for food searching behavior in _C. elegans_ using inverse reinforcement learning.
+  I mainly performed data analysis including inverse reinforcement learning.
 
 * <u>K Ashida</u>, K Oka. 
-  ["Stochastic thermodynamic limit on E. coli adaptation by Information geometric approach."](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
+  ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach."](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
   _Biochemical and Biophysical Research Communications_, 2019 Jan 15;508(3):690-694 ([preprint](https://arxiv.org/abs/1805.10733)).  
 
-  This article revealed that efficiency on E. coli adaptation using both stochastic thermodynamics and information geometry.
+  This article revealed that efficiency on _E. coli_ adaptation using both stochastic thermodynamics and information geometry.
   We suggest that there is an appropriate noise level for achieving the adaptation efficiently.
   I formulated and simulated the efficiency in this paper.
 
@@ -37,7 +43,7 @@ Understanding neuronal information processing using quantification and physical 
 ---
 
 * T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka. 
-  ["Effect of interactions among individuals on the chemotaxis behaviours of Caenorhabditis elegans"](http://jeb.biologists.org/content/221/11/jeb182790) 
+  ["Effect of interactions among individuals on the chemotaxis behaviours of _Caenorhabditis elegans_"](http://jeb.biologists.org/content/221/11/jeb182790) 
   _Journal of Experimental Biology_, 2018 Jun 12;221(Pt 11).  
 
   This article revealed that chemotactic behavior of a nematode is affected by around worms.
@@ -53,7 +59,7 @@ Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Uni
 Advisor: Dr. Kotaro Oka
 
 2014 Apr. - 2015 Mar. Bachelor of Science at Keio University  
-Thesis: Input/output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
+Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
