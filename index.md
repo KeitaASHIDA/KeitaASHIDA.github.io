@@ -27,7 +27,7 @@ Understanding neuronal information processing using quantification and physical 
 * <u>K Ashida</u>, K Hotta, K Oka.
 ["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_ 2019 in press.
 
-In this article revealed, we revealed that the fluctuations of glutamate inputs to an interneuron evoke Ca<sup>2+</sup> responses without explicit stimulation change in _C. elegans_ using various simltaneous imaging. I performed all of the experiments and analysis.
+  In this article revealed, we revealed that the fluctuations of glutamate inputs to an interneuron evoke Ca<sup>2+</sup> responses without explicit stimulation change in _C. elegans_ using various simltaneous imaging. I performed all of the experiments and analysis.
 
 * <u>K Ashida</u>, T Kato, K Hotta, K Oka.
 ["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/abs/pii/S0304394019303301?via%3Dihub)
