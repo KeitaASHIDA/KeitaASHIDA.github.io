@@ -69,6 +69,7 @@ Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegan
 Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
+2019 Mar. - KLL Ph.D. Program Research Grant
 2018 Apr. - 2019 Mar. KLL Ph.D. Program Research Grant  
 2017 Apr. - 2018 Mar. Graduate School Doctoral Student Aid Program, Keio University  
 2017 Apr. - 2018 Mar. KLL Ph.D. Program Research Grant  
