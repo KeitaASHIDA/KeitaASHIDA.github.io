@@ -57,7 +57,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
   I mainly performed computer simulation of odor diffusion in this paper.
 
 ### Education
-2016 Sep. - Ph. D at Keio University  
+2016 Sep. - 2019 Sep. Ph. D at Keio University  
 Advisor: Dr. Kotaro Oka
 
 2015 Apr. - 2016 Aug. Master of Science at Keio University  
@@ -69,7 +69,7 @@ Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegan
 Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
-2019 Mar. - KLL Ph.D. Program Research Grant
+2019 Mar. - 2019 Sep. KLL Ph.D. Program Research Grant  
 2018 Apr. - 2019 Mar. KLL Ph.D. Program Research Grant  
 2017 Apr. - 2018 Mar. Graduate School Doctoral Student Aid Program, Keio University  
 2017 Apr. - 2018 Mar. KLL Ph.D. Program Research Grant  
