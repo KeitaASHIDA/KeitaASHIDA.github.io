@@ -1,6 +1,7 @@
 ## Keita ASHIDA Web Site
-I'm Keita ASHIDA, a PhD student in [Oka Lab](https://www.bpni.bio.keio.ac.jp/) at Keio University, Japan.
-I am interested in neuroscience with quantitative biological approach, and am currently working on input-output relationship of a neuron in _Caenorhabditis elegans_.
+I'm Keita ASHIDA, a postdoctoral researcher at [Ito Lab](http://webpark2072.sakura.ne.jp/lab/) at Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
+I am investigating stochastic thermodynamics in biological systems.
+I have a background in neuroscience with quantitative biological approach, especially for _Caenorhabditis elegans_.
 
 #### Interests
 Understanding neuronal information processing using quantification and physical and mathematical analysis
@@ -55,6 +56,9 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
   This article revealed that chemotactic behavior of a nematode is affected by around worms.
   The worms modulated turning behavior against odor decrease by their pheromone.
   I mainly performed computer simulation of odor diffusion in this paper.
+
+### Emplyoment
+2019 Oct. - Universal Biology Institute, Graduate School of Science, The University of Tokyo.
 
 ### Education
 2016 Sep. - 2019 Sep. Ph. D at Keio University  
