@@ -84,7 +84,6 @@ Advisor: Dr. Kotaro Oka
 
 ***
 
-Contact: 12ashi.jkkt _ at _ keio.jp  
-Address: Department of Biosciences and Informatics,
-Faculty of Science and Technology, Keio University
-3-14-1 Hiyoshi, Kohoku-ku, Yokomaha 223-8522, Japan.
+Contact: keita.ashida _ at _ ubi.s.u-tokyo.ac.jp  
+Address: Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
+Room 408, Faculty of Science Building No. 1, 7-3-1 Hongo, Bunkyo-ku, 113-0033 Tokyo, Japan.
