@@ -24,6 +24,12 @@ Understanding neuronal information processing using quantification and physical 
 2019  
 
 ---
+* K Shimizu\*, <u>K ASHIDA</u>\*, K Hotta, K Oka.
+ ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"]() _Biopysics and Physicobiology_, accepted.
+
+  This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
+  While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
+  I mainly perfomed data analysis.
 
 * <u>K Ashida</u>, K Hotta, K Oka.
 ["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_ 2019 Jul 23;19:191-203.
