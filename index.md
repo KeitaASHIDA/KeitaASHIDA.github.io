@@ -25,7 +25,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * K Shimizu\*, <u>K ASHIDA</u>\*, K Hotta, K Oka.
- ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"]() _Biopysics and Physicobiology_, accepted (/*both authors contributed equally).
+ ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"]() _Biophysics and Physicobiology_, accepted (*both authors contributed equally).
 
   This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
   While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
