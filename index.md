@@ -25,14 +25,14 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * K Shimizu\*, <u>K ASHIDA</u>\*, K Hotta, K Oka.
- ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"]() _Biophysics and Physicobiology_, accepted (*both authors contributed equally).
+ ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
 
   This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
   While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
   I mainly perfomed data analysis.
 
 * <u>K Ashida</u>, K Hotta, K Oka.
-["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_ 2019 Jul 23;19:191-203.
+["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_, 2019 Jul 23;19:191-203.
 
   In this article, we revealed that the fluctuations of glutamate inputs to an interneuron evoke Ca<sup>2+</sup> responses without explicit stimulation change in _C. elegans_ using various simltaneous imaging. Our results suggest that fluctutation of sensory inputs induces behavioral variability under natural condition. I performed all of the experiments and analysis.
 
