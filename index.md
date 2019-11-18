@@ -20,7 +20,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ***
 
-### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
+### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=bboRcUYAAAAJ&hl=ja))
 2019  
 
 ---
