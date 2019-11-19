@@ -24,10 +24,10 @@ Understanding neuronal information processing using quantification and physical 
 2019  
 
 ---
-* H Mori, **K AShida**, H Shidara, T Nikai, K Hotta, K Oka.
+* H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
 ["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"]() _PLoS One_, accepted.
 
-* K Shimizu\*, **K ASHIDA**\*, K Hotta, K Oka.
+* K Shimizu\*, **K Ashida**\*, K Hotta, K Oka.
  ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
 
   This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
@@ -58,7 +58,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
 
 ---
 
-* T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka. 
+* T Yoshimizu, H Shidara, **K Ashida**, K Hotta, K Oka. 
   ["Effect of interactions among individuals on the chemotaxis behaviours of _Caenorhabditis elegans_"](http://jeb.biologists.org/content/221/11/jeb182790) 
   _Journal of Experimental Biology_, 2018 Jun 12;221(Pt 11).  
 
