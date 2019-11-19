@@ -24,26 +24,29 @@ Understanding neuronal information processing using quantification and physical 
 2019  
 
 ---
-* K Shimizu\*, <u>K ASHIDA</u>\*, K Hotta, K Oka.
+* H Mori, **K AShida**, H Shidara, T Nikai, K Hotta, K Oka.
+["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"]() _PLoS One_, accepted.
+
+* K Shimizu\*, **K ASHIDA**\*, K Hotta, K Oka.
  ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
 
   This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
   While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
   I mainly perfomed data analysis.
 
-* <u>K Ashida</u>, K Hotta, K Oka.
+* **K Ashida**, K Hotta, K Oka.
 ["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_, 2019 Jul 23;19:191-203.
 
   In this article, we revealed that the fluctuations of glutamate inputs to an interneuron evoke Ca<sup>2+</sup> responses without explicit stimulation change in _C. elegans_ using various simltaneous imaging. Our results suggest that fluctutation of sensory inputs induces behavioral variability under natural condition. I performed all of the experiments and analysis.
 
-* <u>K Ashida</u>, T Kato, K Hotta, K Oka.
+* **K Ashida**, T Kato, K Hotta, K Oka.
 ["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/abs/pii/S0304394019303301?via%3Dihub)
 _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.github.io/paper/Ashida_et_al_NSL_2019.pdf)).　
 
   This article revealed that velocity change is important for food searching behavior in _C. elegans_ using inverse reinforcement learning.
   I mainly performed data analysis including inverse reinforcement learning.
 
-* <u>K Ashida</u>, K Oka. 
+* **K Ashida**, K Oka. 
   ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach."](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
   _Biochemical and Biophysical Research Communications_, 2019 Jan 15;508(3):690-694 ([preprint](https://arxiv.org/abs/1805.10733)).  
 
