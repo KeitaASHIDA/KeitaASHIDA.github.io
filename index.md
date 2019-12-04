@@ -25,7 +25,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
-["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"]() _PLoS One_, accepted.
+["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226044) _PLoS One_, 2019 Dec 4;14(12): e0226044.
 
 * K Shimizu\*, **K Ashida**\*, K Hotta, K Oka.
  ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
