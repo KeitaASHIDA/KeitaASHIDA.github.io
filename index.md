@@ -24,6 +24,9 @@ Understanding neuronal information processing using quantification and physical 
 2019  
 
 ---
+* **K Ashida**, H Shidara, K Hotta, K Oka.
+["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"]() _Neuroscience_, Accepted.
+
 * H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
 ["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226044) _PLoS One_, 2019 Dec 4;14(12): e0226044.
 
