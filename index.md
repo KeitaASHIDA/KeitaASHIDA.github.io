@@ -20,15 +20,24 @@ Understanding neuronal information processing using quantification and physical 
 
 ***
 
-### Publication List ([Google Scholar](https://scholar.google.com/citations?user=bboRcUYAAAAJ)
+### Publication List ([Google Scholar](https://scholar.google.com/citations?user=bboRcUYAAAAJ))
 2019  
 
 ---
 * **K Ashida**, H Shidara, K Hotta, K Oka.
 ["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"]() _Neuroscience_, Accepted.
 
+   In this article, dissect the modulation of the pre- and postsynaptic relationship in vivo based on optical methods in _C. elegans_.
+   We showed that Ca<sup>2+</sup> response of AIY interneuros are modulated by 5-min odor pre-exposure, but not one of AWC sensory neurons.
+ Furthermore, both synaptic release from AWC and synaptic inputs to AIY are also modulated.
+ These results showed that AWC sensory neurons modulates synaptic release without Ca<sup>2+</sup> modulation.
+ I performed all of the experiments and analysis.
+
 * H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
 ["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226044) _PLoS One_, 2019 Dec 4;14(12): e0226044.
+
+  This article revleaded that Serotonin modulates RID interneuronal activity when womrs change their direction.
+  To reveal   this, we developed a custom-made tracking and imaging system, and imaged the RID activity of freely moving worm. I mainly ssupervised and planed the experimental scheme.
 
 * K Shimizu\*, **K Ashida**\*, K Hotta, K Oka.
  ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
