@@ -21,7 +21,7 @@ Understanding neuronal information processing using quantification and physical 
 ***
 
 ### Publication List ([Google Scholar](https://scholar.google.com/citations?user=bboRcUYAAAAJ))
-2019  
+2020
 
 ---
 * **K Ashida**, H Shidara, K Hotta, K Oka.
@@ -33,6 +33,9 @@ Understanding neuronal information processing using quantification and physical 
  These results showed that AWC sensory neurons modulates synaptic release without Ca<sup>2+</sup> modulation.
  I performed all of the experiments and analysis.
 
+2019  
+
+---
 * H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
 ["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226044) _PLoS One_, 2019 Dec 4;14(12): e0226044.
 
