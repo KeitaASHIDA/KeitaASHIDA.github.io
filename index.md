@@ -93,7 +93,7 @@ Advisor: Dr. Kotaro Oka
 Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Units of Sensory and Interneuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
-2014 Apr. - 2015 Mar. Bachelor of Science at Keio University  
+2011 Apr. - 2015 Mar. Bachelor of Science at Keio University  
 Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
