@@ -1,0 +1,125 @@
+\documentclass[12pt,]{scrartcl}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\usepackage[dvipdfmx]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage[margin=1in]{geometry}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{xcolor}
+\definecolor{cvlinkcolor}{RGB}{6,125,233}
+\hypersetup{colorlinks,linkcolor=cvlinkcolor,citecolor=cvlinkcolor,urlcolor=cvlinkcolor,bookmarksnumbered,bookmarks=false}
+\renewcommand\labelenumi{[\theenumi]}
+
+\date{}
+
+\begin{document}
+
+\begin{table}[h]
+%%%\centering
+{\def\arraystretch{1.2}\tabcolsep=0pt
+\begin{tabular}{p{0.60\linewidth}p{0.05\linewidth}p{0.35\linewidth}}
+
+  \multirow{1}{*}{\LARGE \textbf{Keita Ashida}} &  &  \\
+  
+  & & \\
+  
+    Universal Biology Institute & \multicolumn{1}{r}{Phone:\;\;} & \multicolumn{1}{l}{$+$81 (3) 5841 4183}\\
+  
+  The University of Tokyo & \multicolumn{1}{r}{Email:\;\;} &\multicolumn{1}{l}{\href{keita.ashida@ubi.s.u-tokyo.ac.jp}{keita.ashida@ubi.s.u-tokyo.ac.jp}} \\
+  
+  Room 408, Faculty of Science Bldg. 1 & \multicolumn{1}{r}{Home:\;\;} & \multicolumn{1}{l}{\url{https://keitaashida.github.io/}} \\
+  
+  7-3-1, Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan & \multicolumn{1}{r}{ORCID iD:\;\;} & \multicolumn{1}{l}{\href{https://orcid.org/0000-0003-0859-2103}{orcid.org/0000-0003-0859-2103}}\\
+\end{tabular}
+}
+\end{table}
+
+\subsection{Education}\label{education}
+
+\begin{table}[h]
+{\def\arraystretch{1.5}\tabcolsep=0pt
+\begin{tabular}{p{0.28\linewidth}p{0.75\linewidth}}
+    \multirow{2}{*}[0.85em]{2016 Sep.--2019 Sep.} & Ph.D. (Science), Keio University\\
+  & Thesis Title: The input-output ralationship under environmental noise in cellular and sub-cellular system\\
+  & Supervisors: Kotaro Oka\\
+  
+  2015 Apr.--2016 Sep. & M.Sc., Keio University\\
+
+  2011 Apr.--2015 Mar. & B.Sc., Keio University\\
+
+\end{tabular}
+}
+\end{table}
+
+\subsection{Honours and
+Awards}\label{selected-honours-and-awards}
+
+\begin{table}[!h]
+{\def\arraystretch{1.5}\tabcolsep=0pt
+\begin{tabular}{p{0.28\linewidth}p{0.75\linewidth}}
+    2019 Mar. -- 2019 Sep. & KLL Ph.D. Program Research Grant\\
+    2018 Apr. -- 2019 Mar. & KLL Ph.D. Program Research Grant\\
+    2017 Apr. -- 2018 Mar. & Graduate School Doctoral Student Aid Program, Keio University\\
+    2017 Apr. -- 2018 Mar. & KLL Ph.D. Program Research Grant\\
+    2016 Nov. & Student Presentation Award at The 54th Annual Meeting of the Biophysical Society Japan\\
+    2016 Sep. -- 2019 Aug. & Yoshida Doctor 21 (Yoshida Scholarship Foundation)\\
+    2016 Oct. & (Declined) Research Fellowships for Young Scientists DC1\\
+    2015 Apr. -- 2016 Sep. & Japan Student Services Organization Student Loan Repayment Exemption\\
+\\
+\end{tabular}%
+}
+\end{table}
+
+\subsection{Publications}\label{publications}
+\subsubsection{Journals}\label{journals}
+
+\begin{enumerate}
+  \leftskip-0.13in % for number
+  \item  H Mori, \textbf{K Ashida}, H Shidara, T Nikai, K Hotta, K Oka. Serotonin modulates behavior-related neural activity of RID interneuron in \textit{Caenorhabditis elegans}, PLoS One, 2019 Dec 4;14(12): e0226044
+        DOI: \href{http://dx.doi.org/10.1371/journal.pone.0226044}{10.1371/journal.pone.0226044}
+    \item  K Shimizu*, \textbf{K Ashida}*, K Hotta, K Oka. Food deprivation changes chemotaxis behavior in \textit{Caenorhabditis elegans}, Biophysics and Physicobiology, 2019, 16: 167-172 (*both authors contributed equally)
+        DOI: \href{http://dx.doi.org/10.2142/biophysico.16.0_167}{10.2142/biophysico.16.0\_167}
+    \item \textbf{K Ashida}, K Hotta, K Oka. The input--output relationship of AIY interneurons in \textit{Caenorhabditis elegans} in noisy environment, iScience, 2019 Jul 23;19:191-203
+        DOI: \href{http://dx.doi.org/10.1016/j.isci.2019.07.028}{10.1016/j.isci.2019.07.028}
+    \item \textbf{K Ashida}, T Kato, K Hotta, K Oka. Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in \textit{Caenorhabditis elegans}, Neuroscience Letters, 2019 Jul 27;706:68-74
+        DOI: \href{http://dx.doi.org/10.1016/j.neulet.2019.05.011}{10.1016/j.neulet.2019.05.011}
+    \item \textbf{K Ashida}, K Oka. Stochastic thermodynamic limit on \textit{E. coli} adaptation by Information geometric approach, Biochemical and Biophysical Research Communications, 2019 Jan 15;508(3):690-694
+        DOI: \href{http://dx.doi.org/10.1016/j.bbrc.2018.11.115}{10.1016/j.bbrc.2018.11.115}
+    \item T Yoshimizu, H Shidara, \textbf{K Ashida}, K Hotta, K Oka. Effect of interactions among individuals on the chemotaxis behaviours of \textit{Caenorhabditis elegans}, Journal of Experimental Biology, 2018 Jun 12;221(Pt 11)
+        DOI: \href{http://dx.doi.org/10.1242/jeb.182790}{10.1242/jeb.182790}
+\end{enumerate}
+
+\end{document}
