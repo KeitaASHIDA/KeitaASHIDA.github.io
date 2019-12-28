@@ -62,7 +62,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
   I mainly performed data analysis including inverse reinforcement learning.
 
 * **K Ashida**, K Oka. 
-  ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach."](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
+  ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach"](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
   _Biochemical and Biophysical Research Communications_, 2019 Jan 15;508(3):690-694 ([preprint](https://arxiv.org/abs/1805.10733)).  
 
   This article revealed that efficiency on _E. coli_ adaptation using both stochastic thermodynamics and information geometry.
