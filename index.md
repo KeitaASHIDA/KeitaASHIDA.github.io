@@ -86,6 +86,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
 
 ### Education
 2016 Sep. - 2019 Sep. Ph. D at Keio University  
+Thesis: The input-output ralationship under environmental noise in cellular and sub-cellular system  
 Advisor: Dr. Kotaro Oka
 
 2015 Apr. - 2016 Aug. Master of Science at Keio University  
