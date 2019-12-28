@@ -14,36 +14,54 @@ Understanding neuronal information processing using quantification and physical 
 
 #### Skills
 * Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vesicle release, Neurotransmitter and so on.)
-* Programing for data analysis and computer simulation (C++, Python, ODE, PDE, SDE)
+* Programing for data analysis and computer simulation (C++, Python, MATLAB, and so on. ODE, PDE, SDE)
 * DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
 * Cloning  
 
 ***
 
-### Publication List ([Google Scholar](https://scholar.google.co.jp/citations?user=kmW0CqgAAAAJ&hl=ja&oi=sra))
+### Publication List ([Google Scholar](https://scholar.google.com/citations?user=bboRcUYAAAAJ))
+2020
+
+---
+* **K Ashida**, H Shidara, K Hotta, K Oka.
+["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"]() _Neuroscience_, Accepted.
+
+   In this article, dissect the modulation of the pre- and postsynaptic relationship in vivo based on optical methods in _C. elegans_.
+   We showed that Ca<sup>2+</sup> response of AIY interneuros are modulated by 5-min odor pre-exposure, but not one of AWC sensory neurons.
+ Furthermore, both synaptic release from AWC and synaptic inputs to AIY are also modulated.
+ These results showed that AWC sensory neurons modulates synaptic release without Ca<sup>2+</sup> modulation.
+ I performed all of the experiments and analysis.
+
 2019  
 
 ---
-* K Shimizu\*, <u>K ASHIDA</u>\*, K Hotta, K Oka.
- ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"]() _Biopysics and Physicobiology_, accepted.
+* H Mori, **K Ashida**, H Shidara, T Nikai, K Hotta, K Oka.
+["Serotonin modulates behavior-related neural activity of RID interneuron in _Caenorhabditis elegans_"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226044) _PLoS One_, 2019 Dec 4;14(12): e0226044.
+
+  This article revleaded that Serotonin modulates RID interneuronal activity when womrs change their direction.
+  To reveal   this, we developed a custom-made tracking and imaging system, and imaged the RID activity of freely moving worm. I mainly ssupervised and planed the experimental scheme.
+
+* K Shimizu\*, **K Ashida**\*, K Hotta, K Oka.
+ ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
 
   This article revealed that food deprivaiton changes worms chemotactic strategy depending on duration of food-deprivation.
   While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
   I mainly perfomed data analysis.
 
-* <u>K Ashida</u>, K Hotta, K Oka.
-["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_ 2019 Jul 23;19:191-203.
+* **K Ashida**, K Hotta, K Oka.
+["The input–output relationship of AIY interneurons in _Caenorhabditis elegans_ in noisy environment"](https://www.sciencedirect.com/science/article/pii/S2589004219302536) _iScience_, 2019 Jul 23;19:191-203.
 
   In this article, we revealed that the fluctuations of glutamate inputs to an interneuron evoke Ca<sup>2+</sup> responses without explicit stimulation change in _C. elegans_ using various simltaneous imaging. Our results suggest that fluctutation of sensory inputs induces behavioral variability under natural condition. I performed all of the experiments and analysis.
 
-* <u>K Ashida</u>, T Kato, K Hotta, K Oka.
+* **K Ashida**, T Kato, K Hotta, K Oka.
 ["Multiple tracking and machine learning reveal dopamine modulation for area-restricted foraging behaviors via velocity change in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/abs/pii/S0304394019303301?via%3Dihub)
 _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.github.io/paper/Ashida_et_al_NSL_2019.pdf)).　
 
   This article revealed that velocity change is important for food searching behavior in _C. elegans_ using inverse reinforcement learning.
   I mainly performed data analysis including inverse reinforcement learning.
 
-* <u>K Ashida</u>, K Oka. 
+* **K Ashida**, K Oka. 
   ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach."](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
   _Biochemical and Biophysical Research Communications_, 2019 Jan 15;508(3):690-694 ([preprint](https://arxiv.org/abs/1805.10733)).  
 
@@ -55,7 +73,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
 
 ---
 
-* T Yoshimizu, H Shidara, <u>K Ashida</u>, K Hotta, K Oka. 
+* T Yoshimizu, H Shidara, **K Ashida**, K Hotta, K Oka. 
   ["Effect of interactions among individuals on the chemotaxis behaviours of _Caenorhabditis elegans_"](http://jeb.biologists.org/content/221/11/jeb182790) 
   _Journal of Experimental Biology_, 2018 Jun 12;221(Pt 11).  
 
@@ -68,13 +86,14 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
 
 ### Education
 2016 Sep. - 2019 Sep. Ph. D at Keio University  
+Thesis: The input-output ralationship under environmental noise in cellular and sub-cellular system  
 Advisor: Dr. Kotaro Oka
 
 2015 Apr. - 2016 Aug. Master of Science at Keio University  
 Thesis: The Modulation of Neuronal Activity in Compartmentalized Subcellular Units of Sensory and Interneuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
-2014 Apr. - 2015 Mar. Bachelor of Science at Keio University  
+2011 Apr. - 2015 Mar. Bachelor of Science at Keio University  
 Thesis: Input-output Characteristics of Sensory Neuron in _Caenorhabditis elegans_  
 Advisor: Dr. Kotaro Oka
 
