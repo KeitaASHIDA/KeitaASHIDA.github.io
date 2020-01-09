@@ -25,7 +25,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * **K Ashida**, H Shidara, K Hotta, K Oka.
-["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"]() _Neuroscience_, Accepted.
+["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/pii/S0306452219308814) _Neuroscience_, in press.
 
    In this article, dissect the modulation of the pre- and postsynaptic relationship in vivo based on optical methods in _C. elegans_.
    We showed that Ca<sup>2+</sup> response of AIY interneuros are modulated by 5-min odor pre-exposure, but not one of AWC sensory neurons.
