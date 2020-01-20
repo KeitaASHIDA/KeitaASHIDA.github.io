@@ -25,7 +25,7 @@ Understanding neuronal information processing using quantification and physical 
 
 ---
 * **K Ashida**, H Shidara, K Hotta, K Oka.
-["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/pii/S0306452219308814) _Neuroscience_, in press.
+["Optical dissection of synaptic plasticity for early adaptation in _Caenorhabditis elegans_"](https://www.sciencedirect.com/science/article/pii/S0306452219308814) _Neuroscience_, 2020 Jan 21; 428: 112-121 ([preprint](https://keitaashida.github.io/paper/Ashida_et_al_Neurosci_2020.pdf)).
 
    In this article, dissect the modulation of the pre- and postsynaptic relationship in vivo based on optical methods in _C. elegans_.
    We showed that Ca<sup>2+</sup> response of AIY interneuros are modulated by 5-min odor pre-exposure, but not one of AWC sensory neurons.
@@ -62,7 +62,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
   I mainly performed data analysis including inverse reinforcement learning.
 
 * **K Ashida**, K Oka. 
-  ["Stochastic thermodynamic limit on _E. coli_ adaptation by Information geometric approach"](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
+  ["Stochastic thermodynamic limit on _E. coli_ adaptation by information geometric approach"](https://www.sciencedirect.com/science/article/pii/S0006291X18325415)
   _Biochemical and Biophysical Research Communications_, 2019 Jan 15;508(3):690-694 ([preprint](https://arxiv.org/abs/1805.10733)).  
 
   This article revealed that efficiency on _E. coli_ adaptation using both stochastic thermodynamics and information geometry.
