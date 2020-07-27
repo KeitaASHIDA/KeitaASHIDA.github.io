@@ -43,7 +43,7 @@ Understanding neuronal information processing using quantification and physical 
   To reveal this, we developed a custom-made tracking and imaging system, and imaged the RID activity of freely moving worm. I mainly supervised and planned the experimental scheme.
 
 * K Shimizu\*, **K Ashida**\*, K Hotta, K Oka.
- ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally).
+ ["Food deprivation changes chemotaxis behavior in _Caenorhabditis elegans_"](https://www.jstage.jst.go.jp/article/biophysico/16/0/16_167/_article) _Biophysics and Physicobiology_, 2019, 16: 167-172 (*both authors contributed equally). [Biophysics and Physicobiology Editors' Choice Award](https://www.biophys.jp/award/award02.html)
 
   This article revealed that food deprivation changes worms chemotactic strategy depending on the duration of food-deprivation.
   While 1-h food-deprivation changes the weathervane strategy, 6-h food-deprivation changes the pirouette strategy.
