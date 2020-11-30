@@ -1,11 +1,11 @@
 ## Keita ASHIDA Web Site
 I'm Keita ASHIDA, a postdoctoral researcher at [Ito Lab](http://webpark2072.sakura.ne.jp/lab/) at Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
 I am investigating stochastic thermodynamics in biological systems.
-I have a background in neuroscience with a quantitative biological approach, especially for _Caenorhabditis elegans_.
+I have a background in neuroscience with a quantitative biological approach, especially for fluorescence imaging and _Caenorhabditis elegans_.
 
 #### Interests
 Understanding neuronal information processing using quantification and physical and mathematical analysis
-* Fluorescent imaging
+* Fluorescence imaging
 * Compartments in a single neuron (dendrite, axon, organelles, and so on)
 * Thermodynamics
 * Information theory
@@ -13,7 +13,7 @@ Understanding neuronal information processing using quantification and physical 
 * Control engineering
 
 #### Skills
-* Fluorescent Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vesicle release, Neurotransmitter, and so on.)
+* Fluorescence Imaging (Ca<sup>2+</sup>, Membrane potential, Synaptic vesicle release, Neurotransmitter, and so on.)
 * Programing for data analysis and computer simulation (C++, Python, MATLAB, and so on. ODE, PDE, SDE)
 * DIY Bio (Microfluidics devices, Arduino, Electronics Kits)
 * Cloning  
@@ -21,6 +21,16 @@ Understanding neuronal information processing using quantification and physical 
 ***
 
 ### Publication List ([Google Scholar](https://scholar.google.com/citations?user=bboRcUYAAAAJ))
+Preprint
+* **K Ashida**, K Aoki, S Ito.
+["Experimental evaluation of thermodynamic cost and speed limit in living cells via information geometry"](https://www.biorxiv.org/content/10.1101/2020.11.29.403097v1).
+
+   In this article, We evaluated the thermodynamic cost of the extracellular signal-regulated kinase (ERK) phosphorylation from the time series of the fluorescence imaging data by introducing information geometry.
+   We investigated a thermodynamic efficiency based on the thermodynamic speed limit. The thermodynamic speed limit is the trade-off relation between thermodynamic cost and transition speed, and is now a hot topic in physics.
+   I performed mainly data analysis.
+   
+---
+
 2020
 
 ---
@@ -99,15 +109,17 @@ Advisor: Dr. Kotaro Oka
 
 ### Awards and Scholarships
 2020 Mar. Fujiwara Award (Fujiwara Scholarship Fund, Keio University)  
+2016 Nov. Student Presentation Award at The 54th Annual Meeting of the Biophysical Society Japan  
+2016 Sep. - 2019 Aug. Yoshida Doctor 21 (Yoshida Scholarship Foundation)  
+2015 Apr. - 2016 Sep. Japan Student Services Organization Student Loan Repayment Exemption  
+
+### Research Grants and Fellowships
+2020 Apr. - 2021 Mr. Grant-in-Aid for Research Activity Start-up  
 2019 Mar. - 2019 Sep. KLL Ph.D. Program Research Grant  
 2018 Apr. - 2019 Mar. KLL Ph.D. Program Research Grant  
 2017 Apr. - 2018 Mar. Graduate School Doctoral Student Aid Program, Keio University  
 2017 Apr. - 2018 Mar. KLL Ph.D. Program Research Grant  
-2016 Nov. Student Presentation Award at The 54th Annual Meeting of the Biophysical Society Japan  
-2016 Sep. - 2019 Aug. Yoshida Doctor 21 (Yoshida Scholarship Foundation)  
 2016 Oct. (Declined) Research Fellowships for Young Scientists DC1  
-2015 Apr. - 2016 Sep. Japan Student Services Organization Student Loan Repayment Exemption  
-
 ***
 
 Contact: keita.ashida _ at _ ubi.s.u-tokyo.ac.jp  
