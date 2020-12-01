@@ -42,6 +42,10 @@ Preprint
  Furthermore, both synaptic release from AWC and synaptic inputs to AIY are also modulated.
  These results showed that AWC sensory neurons modulate synaptic release without Ca<sup>2+</sup> modulation.
  I performed all of the experiments and analysis.
+ 
+ * **K Ashida**, H Shidara, K Oka.
+["Food Deprivation Changes Chemotaxis Behavior of _Caenorhabditis elegans_"](https://doi.org/10.2142/biophys.60.346) _Seibutsu Butsuri_ 2020 Nov 28;60（6）: 346-348 (in Japanese, Review paper).
+
 
 2019  
 
