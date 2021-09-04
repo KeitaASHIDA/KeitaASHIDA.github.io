@@ -1,6 +1,7 @@
 ## Keita ASHIDA Web Site
-I'm Keita ASHIDA, a postdoctoral researcher at [Ito Lab](http://webpark2072.sakura.ne.jp/lab/) at Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
-I am investigating stochastic thermodynamics in biological systems.
+I'm Keita ASHIDA.  
+I was a postdoctoral researcher at [Ito Lab](http://webpark2072.sakura.ne.jp/lab/) at Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
+I was investigating stochastic thermodynamics in biological systems.
 I have a background in neuroscience with a quantitative biological approach, especially for fluorescence imaging and _Caenorhabditis elegans_.
 
 #### Interests
@@ -96,7 +97,7 @@ _Neuroscience Letters_, 2019 Jul 27;706:68-74 ([preprint](https://keitaashida.gi
   I mainly performed a computer simulation of odor diffusion in this paper.
 
 ### Emplyoment
-2019 Oct. - Universal Biology Institute, Graduate School of Science, The University of Tokyo.
+2019 Oct. - 2021 Aug. Universal Biology Institute, Graduate School of Science, The University of Tokyo.
 
 ### Education
 2016 Sep. - 2019 Sep. Ph. D at Keio University  
@@ -118,7 +119,7 @@ Advisor: Dr. Kotaro Oka
 2015 Apr. - 2016 Sep. Japan Student Services Organization Student Loan Repayment Exemption  
 
 ### Research Grants and Fellowships
-2020 Apr. - 2021 Mr. Grant-in-Aid for Research Activity Start-up  
+2020 Apr. - 2022 Mr. Grant-in-Aid for Research Activity Start-up  
 2019 Mar. - 2019 Sep. KLL Ph.D. Program Research Grant  
 2018 Apr. - 2019 Mar. KLL Ph.D. Program Research Grant  
 2017 Apr. - 2018 Mar. Graduate School Doctoral Student Aid Program, Keio University  
@@ -127,5 +128,3 @@ Advisor: Dr. Kotaro Oka
 ***
 
 Contact: keita.ashida _ at _ ubi.s.u-tokyo.ac.jp  
-Address: Universal Biology Institute, Graduate School of Science, The University of Tokyo, Japan.
-Room 408, Faculty of Science Building No. 1, 7-3-1 Hongo, Bunkyo-ku, 113-0033 Tokyo, Japan.
